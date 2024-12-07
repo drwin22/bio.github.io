@@ -1,0 +1,122 @@
+---
+title: "Education Porfolio"
+author: "Dr.Francois Nguyen"
+
+output: 
+       prettydoc::html_pretty:
+       theme: leonids
+       highlight: github
+       fig_caption: yes
+---
+```{css, echo= FALSE}
+body {
+ background-color: #f7f0b7;
+}
+```
+\definecolor{shadecolor}{RGB}{245,245,245}
+<style type="text/css">
+body, td {
+   font-size: 20px;
+}
+code.r{
+  font-size: 20px;
+}
+pre {
+  font-size: 20px
+}
+</style>
+
+```{r setup, load-packages, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(warning = FALSE)
+knitr::opts_chunk$set(eval = TRUE)
+```
+
+## Commitment-Connection-Community
+
+Each student comes to my class with their unique background, experiences, abilities, and intelligence. My responsibility is to discover these attributes and create conditions so they can develop to their fullest potential. If a student cannot learn the way I teach, then I must teach the way they learn. There is no teaching method that applies to everyone. I must constantly change the way I do things depending on the situation I am in. I meet students where they are.
+
+Some of my students did not have formal education. Some of my students are the first in their family to go to college. Some came from backgrounds where English was a barrier for them to learn math. I must create a nurturing environment so they feel comfortable and can feel more confident to learn and discover for themselves. In this way they can overcome obstacles. Most students who come to my class have math anxiety. My job is to get to know them, tell some jokes, tell stories about my own life or have them tell stories about themselves. This will create a comfortable community where students respect one another and will feel safe to learn. “I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.” -Maya Angelou
+
+Responsibility for their own learning is also very important. I believe that hard work will produce good results. I want my students to practice and work together to instill deep learning in their minds so they can learn better for themselves. Students have to be actively engaged in the learning process. William Butler Yeats said “Education is not the filling of a pail, but the lighting of a fire.” Students should feel excited about what they are learning so they can feel a sense of inspiration and enjoyment. I want to make sure my class is a joyful learning experience applying theories to practice and dealing with real world situations. Students are also curious to experience different realities than what they are used to. 
+
+In one class who were mostly native speaking English students in the technical areas of welding, carpentry, and machine tool operators, I had to create lessons that were practical and tailored to their own trade areas so they can feel connected to their own trades. I also have a lot of immigrant students who know math well but have difficulty with English. In this case I pair these students up with native English speakers so they can help each other. This works especially well with word problems which are difficult for everyone. Working together and getting to know one another develops respect for one another. I believe in cooperative learning, where they do group work and projects rather than filling their time with lots of assignments just to keep them busy. 
+
+Math should be about self-discovery to finding solutions. Math is not just about numbers and formulas; it requires students to do a lot of active reasoning and critical thinking. There are multiple approaches to solving problems. Students need to try all options and figure out which ones are best suited to them. Sometimes they try and fail but, in my class, failure is an option. When student fail, they learn from their mistake and strive for the best result and help them build the resiliency and bring them success next time. Learning is lifelong experience. Nelson Mandela said, “Education is the most powerful weapon which you can use to change the world.” My students need mathematics so they can go out and do what is necessary for their careers. Through inquiry, students can explore different environments in science and math. 
+
+Sometimes we must give up our control and have the students feel free to communicate and come up with a solution their own way. Sometimes we have to be the guide on the side and not the sage on the stage. When students bring in their own ideas, other students will see that there are multiple ways of solving problems. Diversity of ideas and opinions is highly valued in my classes.
+
+In conclusion, I sometimes hear my students tell me their parents enjoyed being in my class and that is the most rewarding feeling of satisfaction. I feel like I am making an important impact on their lives in multiple generations.
+
+## Impact Statement
+
+Francois Nguyen is a seasoned teacher. His experience and passionate dedication to teaching has made him an outstanding role model for his students and colleagues. Through four decades of teaching math and statistics, Francois has been a pioneer leader implementing technology in the classroom at an early stage back in the early 90s. Francois was selected to participate in various capacities to help the college with equity and inclusion. In 2017, Francois was selected to be a member to develop the racial and inclusion diversity plan. This plan was implemented and made Saint Paul College a trauma-informed and anti-racist institution. His enthusiasm in teaching and strong desire to help has inspired many students to strive for success. As a former refugee himself, he understands immigrant students and helps them overcome barriers. He advocates for changing the minds and attitudes towards the immigrant community. He has earned respect and recognition from his community. Francois has impacted so many lives throughout the years.
+
+## Innovative Teaching Strategies and Materials
+
+Francois Nguyen is a believer and early implementer of technology in the classroom. As early as the 1990s, Francois adopted computer technology to teach math using platforms such as PLATO and Math Enables. Even though these platforms were not well developed, they allowed students to work individually at their own pace which especially served limited English speaking students well. 
+
+As technology grew, Francois was involved in the development of the ITC (Information Technology Center) which offered a computer lab for individual workers and a multimedia classroom for group instruction. Francois worked with colleague Bob Bilyk to implement many innovative teaching strategies.
+
+Francois was among the first to provide online classes to students in the early 2000s. His algebra classes allowed students to work at their own pace while also getting feedback and evaluations from him. The online class structure more easily accommodated differentiation and a more personalized learning approach.
+
+Francois used the flipped classroom model early on. Students would prepare their materials before coming to class and use class time to come together with common questions. This method created a more nurturing and supportive environment where students felt safe to ask questions and learn from each other.
+
+For students who were first generation college students, limited English proficient, or coming back to education after a long time, Francois’ classes were a place where students could get to know each other and work in groups so they could feel supported by their peers.
+
+Another innovation Francois developed and taught were the accelerated algebra classes which enabled students to complete an algebra course in half a semester saving time and money. This enabled students to more quickly enter into their major training program.
+
+In 2020, Franoois developed and taught an intermediate statistics class. This class attracted many students from college programs requiring statistics. It was a project based class where students had to use various programs for data analysis. This class emphasized real world examples such as analyzing COVID data and election results. After this class, students could further their study of data sciences inspiring them to continue in that high demand field.
+“Intermediate Statistics was a great class. Coming in, I was expecting a traditional math course that would follow the lecture, homework, and exam format. Instead, I was presented with an engaging project-based class that allowed me to explore my interests while learning more about the application of statistics. I really enjoyed the open discussion format of the lectures.  Professor Francois made sure to incorporate current events to explain more theoretical topics. We discussed the 2020 election, COVID-19, and other data-driven topics.  As a data science major, I appreciated the class projects which required us to find reliable data sources and prepare them for analysis. If you are interested in research, open discussion, and being creative with statistics, I highly recommend this class.”
+
+A final example of a class that had real world implications was his applied math classes. These classes were set up for carpentry, welding, cabinetmaking, and other highly skilled areas. Even though these students used hands-on skills, math was a vital subskill which was used daily. Often there would be limited English speakers in these classes which Francois would pair with a native English speaker. Working together would be beneficial for both students as they could learn different things from each other. This also created camaraderie and enhanced the friendly classroom environment. Students not only used critical thinking to manipulate numbers and formulas, but also logical reasoning to express answers with charts and graphs which were more useful in real world situations.
+
+Overall, Francois used his many years of experience and innovative spirit to develop and teach a variety of classes to meet the ever changing needs of society. His empathy towards non native English speakers as well as his ability to make every student comfortable and even have fun learning math make him a one-of-a-kind and inspirational educator.
+
+## Standards for Assessments of Student Learning and Performance
+
+Francois Nguyen has always had high expectations for student learning. He establishes the highest standard for students to follow, communicates directly and clearly with students, yet he allows for flexibility and works with students where they are.
+
+His math class learning outcomes match and align with college learning outcomes. Regularly working with the curriculum and assessment coordinator, he collects data and measures student learning outcomes to make sure they match student success rates which are valid and consistent. Francois participates regularly in the program advisory board to seek input for what the latest math skills are that will relate to the college’s trade areas as well.
+
+For formative assessments, all items of homework and quizzes are listed and clearly communicated with students. Students can have many tries to complete homework because it gives them more practice each time. They may take quizzes many times as well and are given time to review often so they will feel ready and have less anxiety about the exams. In some cases Francois allows students to work on projects and present them to the class for peer review which is always a fun interactive learning activity.
+
+For summative assessments, midterms, finals, and projects are provided to assess student learning outcomes. Evaluating the assessments of all courses and rotating the content through the years guarantees reliability and consistency.
+
+Finally Francois encourages students to reflect on their own learning to find ways to improve. Learning by reflection allows students to assess themselves honestly and find innovative ways to improve their learning. Failure is an option so students continue to learn from their mistakes and increase their resilience.
+
+## Culturally Responsive Teaching and Pedagogy
+
+At Saint Paul College, students come from a wide variety of different cultures speaking many different languages and having various educational backgrounds. As a former refugee himself, Francois Nguyen is very conscious about cultural biases and practices in education. Francois works diligently to minimize and combat cultural biases in the classroom and in higher education in general.
+
+Many math books and curricula use outdated biases frequently in their lessons. One example is the frequent use of sports analogies which many immigrants do not automatically understand not being natives of American sport culture. There are usually only Anglo names and often there are gender stereotypes. It is important for Francois to point this out and let students reframe problems so students can focus on the math and not be confused by the culture.
+
+Time is another important cultural difference he pays attention to. Students who are not native born Americans, usually have problems with due dates and other time tables, so Francois makes a point of clearly communicating expectations with frequent reminders so students complete assignments on time.
+
+Money is a factor for all students and Francois uses Direct Digital to incorporate E-Textbooks and the My Math Lab portal to give students electronic access to materials.
+
+A strong believer in constructivist learning, Francois always incorporates group discussions in his classes so students can share their own experiences and feel actively engaged. Math required lots of practice and memorization. This approach gets students more involved in something thought provoking and creative.
+
+Francois has collaborated with other departments within the campus to facilitate special activities and career development. He has worked to promote STEM competitions through a Math Club where one of his students received second place in a national competition. He has also collaborated with outside institutions. He is proud of a Nano Technology project he worked on with some math and chemistry students at the University of Minnesota. This was an opportunity to see nano technology applied in Waver and Microchip research and development. Francois collaborated with the Roseville School District to help develop math syllabi in trade areas so students can prepare for entering college in a trade program.
+
+Francois has gone above and beyond teaching math during the summer which may be more convenient for students with non traditional schedules. He taught in the Summer Bridge program helping high school students in the Metro area take math while they explored training programs offered at Saint Paul College. He has worked tirelessly to make education more accessible for minorities and non-traditional students of all kinds.
+
+## Service to Students, Profession, Institution, System to Advance Teaching Excellence
+
+Throughout his forty years of teaching at Saint Paul College, Francois Nguyen has participated in numerous leadership roles and sat on countless committees. These have all been to improve services to students, make improvements to the campus, and advance the system for teaching excellence.
+
+Currently Francois is a member of the Diversity and Inclusion Committee. This committee’s mission is to promote diversity at the college. Under the leadership of Wendy Robinson, Francois is part of the faculty and staff of color. They meet and discuss solutions to various problems brought on by the pandemic and other ongoing systemic problems. As was seen in the aftermath of the George Floyd tragedy, it is important now more than ever before to recruit and retain faculty of color reflecting the diversity of the college's student population. Since Francois has been teaching at the college for 40 years, he represents the ultimate role model for what it takes to remain in an inner city institution.
+
+Fracois has worked with various communities of color to bring cultural awareness, closing the gap and promoting understanding of the commonalities among different groups. Even though he is not a Muslim himslef, he served as the advisor for the Muslim Student Association for many years. He encouraged these students to bring in guest speakers and initiate other activities which help these students take leadership roles to serve their fellow students in understanding Islamic cultural values bridging the gap to finding common values for all.
+
+Always willing to help promote student success, Francois has participated in workshops to promote STEM programs, mentored international students navigating academic support systems, and participated and supported the ARTI (Anti-Racist Trauma Informed) group for students and staff members struggling with issues. 
+
+In 2008, Francois was selected to represent MSCF faculty for the Minnesota Online Council to advise MinSCU about online learning throughout the system. All these things and more have been an integral part of Francois daily life at Saint Paul College.
+
+##Content Expertise and Professional Growth
+
+Francois Nguyen has an impressive forty years of teaching experience. A native of Vietnam, he grew up speaking both Vietnamese and French and after moving to the US learned both English and Spanish. He loved education as a young child, did extremely well academically growing up during the Vietnam war, escaped to the US and continued his education entering college after learning English for only a few months. He was hired as a teacher at Saint Paul College after finishing his Master’s Degree and has been there ever since. He brags that he has not spent even one year of his life out of school! Francois is passionate about teaching and helping students achieve education for employment. He is a positive thinker and believes that learning is a lifelong skill.
+
+Francois consistently attended workshops and seminars to update his skills in teaching pedagogy and the latest technology. He attended workshops in how the brain learns to make his teaching more effective and produce better results in student learning. He attended a workshop in the summer of 2021 with 40 math and construction teachers to learn how to apply math in the trade area of Geometry in Construction, and Algebra in Manufacturing  Processing, Entrepreneurship and Design (AMPED). This professional development opportunity allowed the St. Paul Consortium of instructors to build relationships across the secondary and postsecondary pipeline as well as across departments including trades, math, and business. It also provided instructors the opportunity to learn about teaching best practices and ways to model similar course work for students that transition from high school to Saint Paul College. 
+Francois recently attended classes in Data Science to learn how to apply R language to teach statistics. This enables students to learn statistics through models and practical research projects.
+Francois strives for fair treatment of all students by communicating appropriate expectations, meeting them where they are, and helping them achieve their full potential. His continued curiosity in new educational practices as well as his interest in helping students learn has served him very well in keeping students interested and motivated to continue their learning journey.
